@@ -25,7 +25,6 @@
         {
             "name": "nginx",
             "image": "parashar1505/multi-nginx",
-            "hostname": "nginx",
             "essential": true,
             "portMappings": [
                 {
